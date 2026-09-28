@@ -60,14 +60,14 @@ directives:
 
 focus_areas:
   - Thiết kế & triển khai kiến trúc Microservices phân tán với Java & Spring Boot
-  - Xây dựng giao diện Web hiện đại, mượt mà và trực quan với React.js & Bootstrap
+  - Xây dựng giao diện Web hiện đại, mượt mà và trực quan với React.js, Tailwind CSS & Bootstrap
   - Tối ưu hóa hiệu năng hệ thống, Caching (Redis), RESTful APIs và Data Persistence
-  - Khai thác Autonomous AI Agents (Antigravity) & Cyberware Tools để đạt chuẩn "Zero-Manual Operation"
+  - Khai thác Autonomous AI Agents (Antigravity IDE & Gemini) để đạt chuẩn "Zero-Manual Operation"
 ```
 
 - ☕ **Backend & Enterprise Systems**: Chuyên sâu về **Java**, **Spring Boot**, **Spring Cloud**, và kiến trúc **Microservices** phân tán.
-- ⚛️ **Frontend & UI Crafter**: Xây dựng ứng dụng web tương tác mượt mà, phản hồi cao với **React.js** và **Bootstrap**.
-- 🤖 **AI-Augmented Development**: Làm việc song hành cùng **Google Antigravity**, **GitHub Copilot** & **Cursor** để tăng tốc thiết kế kiến trúc, refactor và gỡ lỗi.
+- ⚛️ **Frontend & UI Crafter**: Xây dựng ứng dụng web tương tác mượt mà với **React.js**, **Tailwind CSS** và **Bootstrap**.
+- 🤖 **AI-Augmented Development**: Làm việc trên môi trường **Antigravity IDE**, kết hợp **Google Gemini**, **GitHub Copilot** để tăng tốc thiết kế kiến trúc, refactor và gỡ lỗi.
 - 💬 Kết nối với tôi về **Java Ecosystem, Microservices Architecture, React, System Design & Performance Tuning**!
 
 ---
@@ -88,6 +88,7 @@ focus_areas:
 #### ⚛️ Frontend & UI Frameworks
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -105,7 +106,8 @@ focus_areas:
 
 #### 🤖 AI Agents & Modern Cyberware
 <p>
-  <img src="https://img.shields.io/badge/Antigravity_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
@@ -115,11 +117,13 @@ focus_areas:
 
 #### 🛠️ DevOps, Build & Tools
 <p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
@@ -158,7 +162,7 @@ focus_areas:
 
 <div align="center">
   <a href="https://github.com/2imBenne">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,bootstrap,js,ts,html,css,sass,mysql,postgres,redis,kafka,docker,maven,git,github,idea,postman,vite&theme=dark" alt="Cyberpunk Skill Grid" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,bootstrap,js,ts,html,css,sass,mysql,postgres,redis,kafka,docker,maven,git,github,idea,visualstudio,vscode,postman,vite&theme=dark" alt="Cyberpunk Skill Grid" />
   </a>
 </div>
 
