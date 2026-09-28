@@ -8,10 +8,11 @@ on:
   # Cho phép chạy thủ công bất cứ lúc nào trong tab Actions
   workflow_dispatch:
   
-  # Tự chạy khi có thay đổi trên nhánh main
+  # Tự chạy khi có thay đổi trên nhánh main hoặc master
   push:
     branches:
       - main
+      - master
 
 jobs:
   generate:

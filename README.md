@@ -148,10 +148,10 @@ focus_areas:
 
 ---
 
-### 📈 `// NET_ACTIVITY: DYNAMIC_GRAPH`
+### 🏆 `// CYBER_ACHIEVEMENTS: SYSTEM_TROPHIES`
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2imBenne&theme=cyberpunk&hide_border=false&area=true" alt="Cyberpunk Activity Graph" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=2imBenne&theme=cyberpunk&no-frame=false&no-bg=false&margin-w=4" alt="Cyberpunk Trophies" />
 </div>
 
 ---
