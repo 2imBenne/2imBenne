@@ -132,15 +132,21 @@ focus_areas:
   <table border="0">
     <tr>
       <td>
-        <img width="410" src="https://github-readme-stats.vercel.app/api?username=2imBenne&show_icons=true&theme=cyberpunk&hide_border=false&count_private=true" alt="Cyberpunk Stats" />
+        <a href="https://github.com/2imBenne?tab=repositories" target="_blank">
+          <img width="410" src="https://github-stats-extended.vercel.app/api?username=2imBenne&show_icons=true&theme=cyberpunk&hide_border=false&count_private=true" alt="Cyberpunk Stats" />
+        </a>
       </td>
       <td>
-        <img width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2imBenne&layout=compact&theme=cyberpunk&hide_border=false" alt="Cyberpunk Top Langs" />
+        <a href="https://github.com/2imBenne?tab=repositories" target="_blank">
+          <img width="410" src="https://github-stats-extended.vercel.app/api/top-langs/?username=2imBenne&layout=compact&theme=cyberpunk&hide_border=false" alt="Cyberpunk Top Langs" />
+        </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="830" src="https://streak-stats.demolab.com?user=2imBenne&theme=cyberpunk&hide_border=false&border_radius=8&mode=daily" alt="Cyberpunk Streak" />
+        <a href="https://github.com/2imBenne" target="_blank">
+          <img width="830" src="https://streak-stats.demolab.com?user=2imBenne&theme=cyberpunk&hide_border=false&border_radius=8&mode=daily" alt="Cyberpunk Streak" />
+        </a>
       </td>
     </tr>
   </table>
@@ -148,10 +154,12 @@ focus_areas:
 
 ---
 
-### 🏆 `// CYBER_ACHIEVEMENTS: SYSTEM_TROPHIES`
+### 🕹️ `// NEURAL_MATRIX: SKILL_GRID`
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=2imBenne&theme=cyberpunk&no-frame=false&no-bg=false&margin-w=4" alt="Cyberpunk Trophies" />
+  <a href="https://github.com/2imBenne">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,bootstrap,js,ts,html,css,sass,mysql,postgres,redis,kafka,docker,maven,git,github,idea,postman,vite&theme=dark" alt="Cyberpunk Skill Grid" />
+  </a>
 </div>
 
 ---
