@@ -28,10 +28,10 @@
 
   <!-- Social Badges (Cyberpunk Style) -->
   <p align="center">
-    <a href="mailto:contact.2imbenne@gmail.com">
+    <a href="mailto:lamgiahuy002203@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://facebook.com" target="_blank">
+    <a href="https://www.facebook.com/2imbenn" target="_blank">
       <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     <a href="https://github.com/2imBenne" target="_blank">
