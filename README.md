@@ -19,7 +19,7 @@
   <!-- Quick Cyber Badges & Profile Views -->
   <p align="center">
     <a href="https://github.com/2imBenne">
-      <img src="https://komarev.com/ghpvc/?username=2imBenne&label=NETRUNNER+VISITS&style=flat-square&color=00F0FF" alt="Profile Views" />
+      <img src="https://hits.sh/github.com/2imBenne.svg?style=flat-square&label=NETRUNNER+VISITS&color=00F0FF" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=flat-square&logo=hackthebox&logoColor=black" alt="Status" />
     <img src="https://img.shields.io/badge/SECURITY-LEVEL_9-FCEE0A?style=flat-square&logo=matrix&logoColor=black" alt="Security" />
