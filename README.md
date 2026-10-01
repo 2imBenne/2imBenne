@@ -137,7 +137,7 @@ focus_areas:
     <tr>
       <td>
         <a href="https://github.com/2imBenne?tab=repositories" target="_blank">
-          <img width="410" src="https://github-stats-extended.vercel.app/api?username=2imBenne&show_icons=true&theme=cyberpunk&hide_border=false&count_private=true" alt="Cyberpunk Stats" />
+          <img width="410" src="https://github-stats-extended.vercel.app/api?username=2imBenne&show_icons=true&theme=cyberpunk&hide_border=false&count_private=true&include_all_commits=true" alt="Cyberpunk Stats" />
         </a>
       </td>
       <td>
